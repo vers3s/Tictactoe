@@ -93,7 +93,7 @@ The game uses a numeric key mapping system for board positions, making it intuit
 	 Enter your choice :
 ```
 
-### Game Board
+## Game Board
 ```
 Game Board          Key Map
 *************       *************
