@@ -50,7 +50,7 @@ The game uses a numeric key mapping system for board positions, making it intuit
 
 3. The game will display the updated board after every turn and announce the winner or if it's a tie.
 
-### Key Map
+## Key Map
 | Key | Board Position |
 |-----|----------------|
 |  1  | Top Left       |
