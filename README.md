@@ -9,7 +9,7 @@ This project is a console-based implementation of the classic Tic Tac Toe game i
 
 The game uses a numeric key mapping system for board positions, making it intuitive for players to input their moves.
 
-------
+-----
 
 ## Features
 
