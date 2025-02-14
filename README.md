@@ -105,7 +105,7 @@ Game Board          Key Map
 *************       *************
 ```
 
----
+----
 
 ## Improvements
 Future enhancements could include:
@@ -113,7 +113,7 @@ Future enhancements could include:
 - Online multiplayer support.
 - Difficulty levels for the AI.
 
----
+----
 
 ## Acknowledgments
 This project demonstrates fundamental concepts of:
